@@ -1,0 +1,75 @@
+{
+  "categorias": [
+    {
+      "titulo": "Losing my mind",
+      "cor": "#870505",
+      "link_extra": {
+        "text": "Reflections about art"
+      },
+      "videos": [
+        {
+          "titulo": "The repulsive masterpiece",
+          "url": "https://www.youtube.com/watch?v=j2oJgnN6aDk"
+        },
+        {
+          "titulo": "Autorretrato - Carlos Drummond de Andrade",
+          "url": "https://www.youtube.com/watch?v=U6EmVnox_8I"
+        },
+        {
+          "titulo": "porque pertuba tanto?",
+          "url": "https://www.youtube.com/watch?v=7FQYoZ1CpmI"
+        },
+        {
+          "titulo": "Como a vida moderna esgota a sua mente | Teoria do Superestímulo",
+          "url": "https://www.youtube.com/watch?v=rrXFBSD0nRw&t=6s"
+        },
+        {
+          "titulo": "O Bebê de Rosemary | A maternidade pode ser um inferno",
+          "url": "https://www.youtube.com/watch?v=9aJ5XqfwWWE"
+        },
+        {
+          "titulo": "VNR #22: A VINGANÇA DE JENNIFER",
+          "url": "https://www.youtube.com/watch?v=BalxYX1GQuQ"
+        },
+        {
+          "titulo": "A pele em que habito",
+          "url": "https://www.youtube.com/watch?v=ZtrxcwVbvtE&t=419s"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }        
+      ]
+    },
+
+    {
+      "titulo": "Music",
+      "cor": "#870505",
+      "link_extra": {
+        "text": "Your songs"
+      },
+      "videos": [
+        {
+          "titulo": "Lust for life",
+          "url": "https://www.youtube.com/watch?v=eP4eqhWc7sI"
+        },
+        {
+          "titulo": "Drunk in love",
+          "url": "https://www.youtube.com/watch?v=WARyaiuDoZo"
+        },
+        {
+          "titulo": "Sorry",
+          "url": "https://www.youtube.com/watch?v=QxsmWxxouIM"
+        },
+        {
+          "titulo": "Rock n roll suicidade",
+          "url": "https://www.youtube.com/watch?v=9jg4ekLG9Zo"
+        },
+        {
+          "titulo": "Lazarus",
+          "url": "https://www.youtube.com/watch?v=y-JqH1M4Ya8"
+        }
+      ]
+    }
+  ]
+}
