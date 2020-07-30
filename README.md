@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# react-imersao
+A netflix home screen clone with react. #ImersaoAlura
+>>>>>>> 7d0950f9c2706e195a589f7c2703faeeba9cdc0f
